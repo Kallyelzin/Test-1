@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html ta charset="UTF-8">
+<metlang="pt-br">
 
+    <head>
+        <mea name="viewport" content="width=device-width, inicial-scale=1.00">
+            <style>
+                .container {
+                    text-align: center;
+                    margin: 0 auto;
+                    width: 80%;
+                    /* Ajuste conforme necessário */
+                }
+            </style>
+            <div class="container">
+                <img src="..\assets\imagens\bolo.png" alt="bolo de aniversário">
+                <title>Feliz Aniversario Mãe💗</title>
+    </head>
+
+    <body>
+        <h2> Feliz aniversario mãe</h2>
+        <h3>te amo muito mãe, obrigado por tudo que sempre esta fazendo por mim, que este dia seja cheio de alegria e
+            felicidade para nós😁</h3>
+        <button>🔈Tocar musica</button>
+        <audio> id="" src=""></audio>
+        </div>
+    </body>
+          
+</html>
